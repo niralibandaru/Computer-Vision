@@ -2,7 +2,7 @@
 Machine vision concepts and algorithms implemented in C
 
 This repository is comprised of video demos and reports from the class "Introduction to Computer Vision."
-Code is excluded due in compliance with professor's instructions.
+Code is excluded in compliance with professor's instructions.
 
 Link to Professor Adam Hoover's website: http://cecas.clemson.edu/~ahoover/ece431/
 
