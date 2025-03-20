@@ -12,9 +12,6 @@ Labs:
 2. Optical Character Recognition          (Using templates and ground truth locations)
 3. Letters                                (Optical character recognition through identification of endpoints, branchpoints, and edges)
 4. Region Interaction                     (GUI programming using win32 library on Visual Studio 2019 in C)
-
-Upcoming:
-
 5. Active Contours
 6. Camera Network Calibration
 7. Motion Tracking
